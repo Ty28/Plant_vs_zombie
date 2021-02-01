@@ -1,0 +1,7 @@
+﻿  Controller.cpp
+a:\code\pvz\pvz\base.h(170): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  PlantsVsZombies.cpp
+  PVZ.vcxproj -> A:\code\PVZ\Debug\PVZ.exe
+  PVZ.vcxproj -> A:\code\PVZ\Debug\PVZ.pdb (Full PDB)
